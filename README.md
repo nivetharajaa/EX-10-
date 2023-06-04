@@ -4,16 +4,21 @@
 To Perform Data Science Process on a complex dataset and save the data to a file.
 
 # ALGORITHM
-Step 1
+
+## Step 1
+
 Read the given Data
 
-Step 2
+## Step 2
+
 Clean the Data Set using Data Cleaning Process
 
-Step 3
+## Step 3
+
 Apply Feature Generation/Feature Selection Techniques on the data set
 
-Step 4
+## Step 4
+
 Apply EDA /Data visualization techniques to all the features of the data set
 
 # CODE
